@@ -2,7 +2,7 @@ import React from "react";
 import MarketingApp from "./components/MarketingApp";
 
 export default () => {
-  console.log("APP STARTED");
+  console.log("STARTED APP");
 
   return (
     <div>
